@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.b722df1b.chunk.js",
-    "main.js.map": "/static/js/main.b722df1b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.28640b61.js",
-    "runtime-main.js.map": "/static/js/runtime-main.28640b61.js.map",
-    "static/js/2.1cde6942.chunk.js": "/static/js/2.1cde6942.chunk.js",
-    "static/js/2.1cde6942.chunk.js.map": "/static/js/2.1cde6942.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.1cde6942.chunk.js.LICENSE.txt": "/static/js/2.1cde6942.chunk.js.LICENSE.txt"
+    "main.js": "/react-appt-planner/static/js/main.b722df1b.chunk.js",
+    "main.js.map": "/react-appt-planner/static/js/main.b722df1b.chunk.js.map",
+    "runtime-main.js": "/react-appt-planner/static/js/runtime-main.f4f7576b.js",
+    "runtime-main.js.map": "/react-appt-planner/static/js/runtime-main.f4f7576b.js.map",
+    "static/js/2.1cde6942.chunk.js": "/react-appt-planner/static/js/2.1cde6942.chunk.js",
+    "static/js/2.1cde6942.chunk.js.map": "/react-appt-planner/static/js/2.1cde6942.chunk.js.map",
+    "index.html": "/react-appt-planner/index.html",
+    "static/js/2.1cde6942.chunk.js.LICENSE.txt": "/react-appt-planner/static/js/2.1cde6942.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28640b61.js",
+    "static/js/runtime-main.f4f7576b.js",
     "static/js/2.1cde6942.chunk.js",
     "static/js/main.b722df1b.chunk.js"
   ]
